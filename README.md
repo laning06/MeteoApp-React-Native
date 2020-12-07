@@ -10,3 +10,6 @@ first, you must install Node packages ans expo: <br/>
 After that, to launch the application, use the command:<br/>
 
 #### expo start
+
+Enjoyy 😁😁😁😁😁💕💕
+
